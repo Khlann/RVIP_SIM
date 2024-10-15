@@ -1,0 +1,13 @@
+/checkpoints /
+/data/
+
+imgui.ini
+
+
+__pycache__/
+
+.idea/
+
+
+
+

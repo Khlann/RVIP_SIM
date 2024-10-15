@@ -1,0 +1,7 @@
+imgui.ini
+/.idea
+
+__pycache__/
+*.pyc
+
+__pycache__/user_interaction.cpython-310.pyc
